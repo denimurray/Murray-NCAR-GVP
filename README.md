@@ -1,13 +1,11 @@
 # Murray-NCAR-GVP
 This set of notebooks and folders is the code and data that is associated with the publication: 
 
-**Evaluating CAM-chem modeled atmospheric wet deposition with observed long-term records** 
+Murray, D.S., Buchholz, R. R., Emmons, L. K., Honomichl, S., Tang, W., Tilmes, S., et al. (2026). Evaluating CAM‐chem modeled atmospheric wet deposition with observed long‐term records. Journal of Geophysical Research: Atmospheres, 131, e2025JD044196. 
 
 **Primary author**: Desneiges (Deni) Murray
 
 **Co-authors**: Rebecca R. Buchholz, Louisa K. Emmons, Shawn Honomichl, Wenfu Tang, Simone Tilmes, Mary Barth, and Adam S. Wymore
-
-Submitted for review to Journal of Geophysical Research: Atmospheres
 
 
 | File                                                                                  | Description                                                                                                                               |
